@@ -116,7 +116,7 @@ Extracting actionable insights from marketing campaign data
 
 👤 Author
 
-Your Name
+Dileep.T
 
 GitHub: (https://github.com/Dileep-getdata)
 LinkedIn: https://www.linkedin.com/in/dileep-t-34704625b/
